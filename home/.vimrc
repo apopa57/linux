@@ -11,3 +11,5 @@ set tabstop=2
 set listchars=tab:▸\ ,eol:¬
 
 set linebreak
+
+set undofile
